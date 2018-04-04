@@ -1,1 +1,1 @@
-# wSpa
+# wSpaniale Web project
