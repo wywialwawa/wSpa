@@ -1,0 +1,310 @@
+
+@media only screen and (max-width:1920px) {
+
+    #slider-animate {
+        width: 60%;
+    }
+    #navi-mobile {
+        display: none;
+    }
+    #pricelink li {
+        margin: 2px auto;
+        width: 60%;
+    }
+}
+
+@media only screen and (max-width:1441px) {
+
+    #slider-animate {
+        width: 80%;
+    }
+    #navi-mobile {
+        display: none;
+    }
+}
+
+@media only screen and (max-width:1040px) {
+    #slider-animate {
+        width: 90%;
+    }
+    
+
+    #navi-mobile {
+        display: none;
+    }
+    #aboutus {
+        font-size: 20px;
+        width: 90%;
+    }
+    
+       .photoUS1 img{
+    width: 100%;
+}
+    .txtUS2 {
+
+    font-size: 16px;
+    }
+    
+    .containerUS {
+
+    height:220px;
+}
+    
+    .containerUS1>p {
+    font-size: 16px;
+
+}
+    
+    img.medium {
+    height: 90%;
+    width: auto;
+}
+
+    .socialdiv1 {
+         position: absolute;
+        left: 20%;
+    
+    }
+
+    .socialdiv2 {
+
+        position: absolute;
+        right: 20%;
+    
+    }
+    
+    .fb {
+        font-size: 54px;
+    }
+
+    .insta {
+        font-size: 54px;
+}
+    
+
+
+
+
+@media only screen and (max-width:969px) {
+
+    #navi {
+        display: none;
+    }
+    #slider-animate {
+        width: 90%;
+    }
+
+    #navi-mobile {
+        display: block;
+
+    }
+    
+    .photoUS1 img{
+    width: 100%;
+}
+
+    #aboutus {
+        font-size: 14px;
+        width: 100%;
+    }
+    
+     .txtUS2 {
+
+    font-size: 10px;
+    }
+    
+    .containerUS {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    padding: 10px;
+    width: 100%;
+    height:120px;
+}
+    
+    .containerUS1>p {
+    font-size:12px;
+
+}
+    
+    .containerUS1 {
+        margin-top: 0;
+    max-width: 100%;
+
+}
+    
+    img.medium {
+    height: 100%;
+    width: auto;
+}
+    
+    .socialfollow {
+    font-size: 14px;
+        position: absolute;
+        
+}
+    .socialdiv1 {
+        float: left;
+        position: absolute;
+        left: 5%;
+        
+    }
+
+    .socialdiv2 {
+
+        position: absolute;
+        right: 5%;
+        
+    }
+    .fb {
+        font-size: 54px;
+    }
+
+    .insta {
+        font-size: 54px;
+    }
+
+    #mapka {
+        width: 90%;
+        height: 200px;
+    }
+       .prices {
+    width: 80%;
+    font-size: 14px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+    #pricelink li {
+        margin: 2px auto;
+        width: 80%;
+    }
+    
+
+}
+    
+    @media only screen and (max-width:429px) {
+
+    #navi {
+        display: none;
+    }
+    #slider-animate {
+        width: 90%;
+    }
+
+    #navi-mobile {
+        display: block;
+
+    }
+    
+    .photoUS1 img{
+    width: 100%;
+}
+
+    
+     .txtUS2 {
+
+    font-size: 10px;
+    }
+    
+    .containerUS {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    padding: 10px;
+    width: 100%;
+    height:125px;
+}
+    
+    .containerUS1>p {
+    font-size: 12px;
+
+}
+    
+    .containerUS1 {
+        margin: 0;
+    max-width: 100%;
+        padding: 0;
+
+}
+    
+    img.medium {
+    height: 110%;
+    width: auto;
+}
+    #social{
+        height: 14vh;
+    }
+    
+    .socialfollow {
+    font-size: 14px;
+        position: absolute;
+        
+}
+    .socialdiv1 {
+        float: left;
+        position: absolute;
+        left: 5%;
+        
+    }
+
+    .socialdiv2 {
+
+        position: absolute;
+        right: 5%;
+        
+    }
+    .fb {
+        font-size: 40px;
+    }
+
+    .insta {
+        font-size: 40px;
+    }
+
+    #mapka {
+        width: 90%;
+        height: 200px;
+    }
+       .prices {
+    width: 90%;
+    font-size: 14px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+    #pricelink{
+        font-size: 14px;
+        text-align: center;
+        text-decoration: none;
+        padding: 5px;
+        margin-bottom: 15px;
+    }
+    #pricelink li {
+        margin: 2px auto;
+        width: 89%;
+        border: solid 1px white;
+        text-decoration: none;
+        list-style: none;
+        border-radius: 5px;
+    }
+    #pricelink a{
+        text-decoration: none;
+        color: black;
+    }
+    #pricelink a:link
+    {
+        color: white;
+    }
+    #pricelink a:link
+    {
+        color: white;
+    }
+    
+    #pricelink li:hover
+    {   color: black;
+        background-color: white;
+        box-shadow: 0 5px 5px -3px black;
+    }
+    
+}
